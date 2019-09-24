@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blacktext">#000</color>
+    <color name="buttext">#FCFAFA</color>
+    <color name="spinerstock">#636161</color>
+    <color name="loginhere">#bf212b</color>
+    <color name="headerbg">#191552</color>
+    <color name="coretext">#A8A5A5</color>
+</resources>
